@@ -1,0 +1,3 @@
+#!/bin/bin
+chmod ugo+x hello
+
